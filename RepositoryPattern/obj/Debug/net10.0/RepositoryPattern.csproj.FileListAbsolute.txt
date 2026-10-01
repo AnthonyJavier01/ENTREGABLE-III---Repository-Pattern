@@ -1,0 +1,14 @@
+C:\Users\USUARIO\source\repos\RepositoryPattern\bin\Debug\net10.0\RepositoryPattern.exe
+C:\Users\USUARIO\source\repos\RepositoryPattern\bin\Debug\net10.0\RepositoryPattern.deps.json
+C:\Users\USUARIO\source\repos\RepositoryPattern\bin\Debug\net10.0\RepositoryPattern.runtimeconfig.json
+C:\Users\USUARIO\source\repos\RepositoryPattern\bin\Debug\net10.0\RepositoryPattern.dll
+C:\Users\USUARIO\source\repos\RepositoryPattern\bin\Debug\net10.0\RepositoryPattern.pdb
+C:\Users\USUARIO\source\repos\RepositoryPattern\obj\Debug\net10.0\RepositoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\RepositoryPattern\obj\Debug\net10.0\RepositoryPattern.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\RepositoryPattern\obj\Debug\net10.0\RepositoryPattern.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\RepositoryPattern\obj\Debug\net10.0\RepositoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\RepositoryPattern\obj\Debug\net10.0\RepositoryPattern.dll
+C:\Users\USUARIO\source\repos\RepositoryPattern\obj\Debug\net10.0\refint\RepositoryPattern.dll
+C:\Users\USUARIO\source\repos\RepositoryPattern\obj\Debug\net10.0\RepositoryPattern.pdb
+C:\Users\USUARIO\source\repos\RepositoryPattern\obj\Debug\net10.0\RepositoryPattern.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\RepositoryPattern\obj\Debug\net10.0\ref\RepositoryPattern.dll
